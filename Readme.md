@@ -1,4 +1,5 @@
 ========================By vscpp start===============================
+
 The code is from Microsoft MU project.
 
 ## How to build (Sample)
@@ -16,6 +17,7 @@ The code is from Microsoft MU project.
 1. Boot to UEFI Shell environment
 2. Run: load PrintScreenLogger.efi
 3. Refer to "PrintScreenLogger operation"
+
 ========================By vscpp end===============================
 
 # PrintScreenLogger
